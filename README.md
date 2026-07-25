@@ -3,7 +3,8 @@
 一个基于 Mod Core Package / Minecraft 的 Minecraft 插件服务端，支持加载插件，轻量、简单 且完整 喵呜~
 
 ## !!! Warning !!! (必读) 喵呜~
-这里包含完整的 net.minecraft 源代码，谨慎fork!!!喵呜~
+在 Release 包含完整的 net.minecraft 源代码，谨慎使用!!!喵呜~
+当然，源代码里可没有喵~
 
 ## 特性 喵呜~
 
@@ -20,7 +21,7 @@
 - Log4j 2.14.1（Apache 2.0）
 
 ## 编译
-下载源代码/mcp，将src目录拖入mcp918文件夹 喵呜~
+下载源代码和mcp918，将src目录拖入mcp918文件夹 喵呜~
 
 ## 使用 喵呜~
 
