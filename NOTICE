@@ -1,0 +1,16 @@
+MeowMeow
+Copyright (c) 2026 Minecraft_Sam111
+
+This project includes the following dependencies:
+
+SnakeYAML
+
+· License: Apache 2.0
+· Copyright (c) 2026 SnakeYAML contributors
+· https://bitbucket.org/asomov/snakeyaml
+
+Log4j
+
+· License: Apache 2.0
+· Copyright (c) 2026 The Apache Software Foundation
+· https://logging.apache.org/log4j/2.x/
