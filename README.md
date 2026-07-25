@@ -41,9 +41,10 @@
 
 Minecraft_Sam111（MeowMeow 项目）喵呜~
 
-致谢 
+## 致谢 喵呜~
 · SnakeYAML 作者
 · Log4j 作者
 · 所有贡献者
 
-```
+## 为什么选择我们 喵呜~
+不要选择我们，这没有任何的 api，你只可以通过 net.minecraft 来进行插件开发 喵呜~
