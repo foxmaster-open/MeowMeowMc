@@ -2,7 +2,7 @@
 
 一个基于 Mod Core Package / Minecraft 的 Minecraft 插件服务端，支持加载插件，轻量、简单 且完整 喵呜~
 
-## !!! Warning !!! 喵呜~
+## !!! Warning !!! (必读) 喵呜~
 这里包含完整的 net.minecraft 源代码，谨慎fork!!!喵呜~
 
 ## 特性 喵呜~
