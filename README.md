@@ -47,6 +47,3 @@ Minecraft_Sam111（MeowMeow 项目）
 · 所有贡献者
 
 ```
-## 结论
-
-你有了完整的 README 和 NOTICE 文件模板，可以用于 MeowMeow 项目。😏
