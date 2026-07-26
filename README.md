@@ -1,6 +1,3 @@
-![Uploading flag-meow.png…]()
-
-
 ## MeowMeow 
 
 一个基于 Mod Core Package / Minecraft 的 Minecraft 插件服务端，支持加载插件，轻量、简单 且完整 喵呜~
