@@ -126,9 +126,9 @@ shen@FUCKU:~$ java -jar meowmeow_server.jar # 启动服务端
 
 本项目包含以下依赖：
 
-· SnakeYAML(Apache 2.0)
-· Log4j (Apache 2.0)
-. Minecraft 服务器 (源代码) 1.8.8 MCP (Decompile only)
+- SnakeYAML(Apache 2.0)
+- Log4j (Apache 2.0)
+- Minecraft 服务器 (源代码) 1.8.8 MCP (Decompile only)
 
 详细信息请查看 NOTICE 文件。
 
@@ -137,6 +137,6 @@ shen@FUCKU:~$ java -jar meowmeow_server.jar # 启动服务端
 Minecraft_Sam111（MeowMeow 项目）喵呜~
 
 ## 致谢 喵呜~
-· SnakeYAML 作者
-· Log4j 作者
-· 所有贡献者
+- SnakeYAML 作者
+- Log4j 作者
+- 所有贡献者
