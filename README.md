@@ -35,16 +35,15 @@ bash-5.3# java -jar meowmeow_server.jar # 启动服务端
 
 ``` Arch系
 [shen@FUCKU ~]$ sudo pacman -Sy # 升级软件源
-:: Synchronizing package databases...
- core                                               126.7 KiB   334 KiB/s 00:00 [##############################################] 100%
- extra                                                8.3 MiB  6.64 MiB/s 00:01 [##############################################] 100%
- archlinuxcn                                       1364.6 KiB  2.13 MiB/s 00:01 [##############################################] 100%
 [shen@FUCKU ~]$ sudo pacman -S openjdk-11 # 安装 Java
 shen@FUCKU:~$ java -jar meowmeow_server.jar # 启动服务端
 ```
 ```Red Hat系
 shen@FUCKU:~$ sudo dnf install -y java-11-openjdk java-11-openjdk-devel # 安装 Java
 shen@FUCKU:~$ java -jar meowmeow_server.jar # 启动服务端
+```
+```通用系
+打开firefox 访问https://www.oracle.com/cn/java/technologies/javase/javase8-archive-downloads.html
 ```
 ## 许可证
 
