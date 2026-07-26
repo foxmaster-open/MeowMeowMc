@@ -28,20 +28,24 @@
 
 ## 使用 喵呜~
 
+Debian系
 ```debian系
 bash-5.3# apt install openjdk-11-jdk # 安装 Java
 bash-5.3# java -jar meowmeow_server.jar # 启动服务端
 ```
-
+Arch Linux
 ``` Arch系
 [shen@FUCKU ~]$ sudo pacman -Sy # 升级软件源
 [shen@FUCKU ~]$ sudo pacman -S openjdk-11 # 安装 Java
 shen@FUCKU:~$ java -jar meowmeow_server.jar # 启动服务端
 ```
+红帽系
 ```Red Hat系
 shen@FUCKU:~$ sudo dnf install -y java-11-openjdk java-11-openjdk-devel # 安装 Java
 shen@FUCKU:~$ java -jar meowmeow_server.jar # 启动服务端
 ```
+
+通用 (需要登录且为Java8)
 ```通用系
 打开firefox 访问https://www.oracle.com/cn/java/technologies/javase/javase8-archive-downloads.html
 ```
