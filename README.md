@@ -59,7 +59,7 @@ shen@FUCKU:~$ java -jar meowmeow_server.jar # 启动服务端
 · Log4j (Apache 2.0)
 . Minecraft Source Code 1.8.8 MCP (for reference only; all rights belong to Mojang Studios)
 
-详细信息请查看 NOTICE 文件。
+### 详细信息请查看 NOTICE 文件。###
 
 ## 作者 喵呜~
 
