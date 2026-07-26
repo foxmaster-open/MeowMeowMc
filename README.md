@@ -79,7 +79,7 @@ public class AtinyPlugin implements Plugin {
 ## 依赖 喵呜~
 
 - Java: Java 7 或更高的版本 
-- 系统: Windows/Linux/FreeBSD
+- 系统: Windows 8+ / Linux 3.1+ / macOS X 10.10+
 - 插件运行条件: 必须使用implements Plugin 来编写，且必须实现这些抽象方法: 
 ```java
   void onEnable();
