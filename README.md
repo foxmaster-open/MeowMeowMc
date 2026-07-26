@@ -1,5 +1,7 @@
 ## MeowMeow 
+Copyright (c) 2026 Minecraft_Sam111
 
+## 说明
 一个基于 Mod Core Package / Minecraft 的 Minecraft 插件服务端，支持加载插件，轻量、简单 且完整 喵呜~
 
 ## !!! Warning !!! (必读) 喵呜~
@@ -15,14 +17,14 @@ R: 这是一个基于 Mod Core Package / Minecraft 的 Minecraft 插件服务端
 
 ## 一个插件 喵呜~
 以下是插件的示例:
-```Java
+```java
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.meow.Plugin;
 
-public class Plugin implements Plugin {
+public class AtinyPlugin implements Plugin {
 
-    private static final Logger LOGGER = LogManager.getLogger(TinyPlugin.class);
+    private static final Logger LOGGER = LogManager.getLogger(AtinyPlugin.class);
 
     private boolean enabled = false;
     private Object server;
@@ -34,12 +36,12 @@ public class Plugin implements Plugin {
 
     @Override
     public void onDisable() {
-        LOGGER.info("Welcome to plugin world!");
+        LOGGER.info("IDK WHAT FUCKING MEANING");
     }
 
     @Override
     public String getName() {
-        return "AaaCommandPlugin";
+        return "AaaPlugin";
     }
 
     @Override
@@ -68,7 +70,7 @@ public class Plugin implements Plugin {
     }
 }
 ```
-这个Plugin.java文件是一个完整的MeowMeow插件实现，它正确实现了定义的org.meow.Plugin接口。代码没有问题 喵呜~
+这是一个完整的MeowMeow插件实现，它正确实现了定义的org.meow.Plugin接口。代码没有问题 喵呜~
 
 成员变量部分没有问题，enabled记录启用状态，server持有服务端引用，setServer方法会被你的PluginLoader在加载时自动调用，getServer则留给插件开发者使用 喵呜~
 
@@ -116,7 +118,7 @@ shen@FUCKU:~$ java -jar meowmeow_server.jar # 启动服务端
 
 ## 如果上述方式无法下载:
 打开游览器，访问: 
-##https://www.oracle.com/cn/java/technologies/javase/javase8-archive-downloads.html
+## https://www.oracle.com/cn/java/technologies/javase/javase8-archive-downloads.html
 
 ## 许可证
 
