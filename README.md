@@ -28,10 +28,24 @@
 
 ## 使用 喵呜~
 
-1. 下载 OpenJDK 1.8
-2. 启动服务端 喵呜~
-3. 观察控制台输出 喵呜~
+```debian系
+bash-5.3# apt install openjdk-11-jdk # 安装 Java
+bash-5.3# java -jar meowmeow_server.jar # 启动服务端
+```
 
+``` Arch系
+[shen@FUCKU ~]$ sudo pacman -Sy # 升级软件源
+:: Synchronizing package databases...
+ core                                               126.7 KiB   334 KiB/s 00:00 [##############################################] 100%
+ extra                                                8.3 MiB  6.64 MiB/s 00:01 [##############################################] 100%
+ archlinuxcn                                       1364.6 KiB  2.13 MiB/s 00:01 [##############################################] 100%
+[shen@FUCKU ~]$ sudo pacman -S openjdk-11 # 安装 Java
+shen@FUCKU:~$ java -jar meowmeow_server.jar # 启动服务端
+```
+```Red Hat系
+shen@FUCKU:~$ sudo dnf install -y java-11-openjdk java-11-openjdk-devel # 安装 Java
+shen@FUCKU:~$ java -jar meowmeow_server.jar # 启动服务端
+```
 ## 许可证
 
 本项目使用 GPL 3.0 许可证 喵~
@@ -40,7 +54,7 @@
 
 · SnakeYAML(Apache 2.0)
 · Log4j (Apache 2.0)
-. Minecraft Src 1.8.8 (IDK WHAT FUXKING MEANING=W=)
+. Minecraft Source Code 1.8.8 MCP (for reference only; all rights belong to Mojang Studios)
 
 详细信息请查看 NOTICE 文件。
 
