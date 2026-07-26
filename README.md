@@ -2,6 +2,9 @@
 
 一个基于 Mod Core Package / Minecraft 的 Minecraft 插件服务端，支持加载插件，轻量、简单 且完整 喵呜~
 
+## 为什么不要选择我们 喵呜~
+不要选择我们，这没有任何的 api，你只可以通过 net.minecraft 来进行插件开发 喵呜~
+
 ## !!! Warning !!! (必读) 喵呜~
 在 Release 包含完整的 net.minecraft 源代码，谨慎使用!!!喵呜~
 当然，源代码里可没有喵~
@@ -21,7 +24,7 @@
 - Log4j 2.14.1（Apache 2.0）
 
 ## 编译
-下载源代码和mcp918，将src目录拖入mcp918文件夹 喵呜~
+下载源代码和 Release 里的预编译版本，打开 IDEA 新建项目，把src文件夹拖入项目文件夹，随后找到文件(F)-项目结构...-库，导入下载好的预编译版本，接下来就可以了 喵呜~
 
 ## 使用 喵呜~
 
@@ -37,7 +40,7 @@
 
 · SnakeYAML(Apache 2.0)
 · Log4j (Apache 2.0)
-. Minecraft Src 1.8.8 (IDK WHAT FUXKING MEANING.)
+. Minecraft Src 1.8.8 (IDK WHAT FUXKING MEANING=W=)
 
 详细信息请查看 NOTICE 文件。
 
@@ -49,6 +52,3 @@ Minecraft_Sam111（MeowMeow 项目）喵呜~
 · SnakeYAML 作者
 · Log4j 作者
 · 所有贡献者
-
-## 为什么选择我们 喵呜~
-不要选择我们，这没有任何的 api，你只可以通过 net.minecraft 来进行插件开发 喵呜~
